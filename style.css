@@ -1,0 +1,48 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    background-color: none;
+    height: 100%;
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+body {
+    background-image: url(stock-photo-12955825.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+main {
+    position: absolute;
+    top: 30%;
+    text-align: center;
+    width: 100%;
+}
+
+footer {
+    position: absolute;
+    bottom: 2%;
+    text-align: center;
+    width: 100%;
+    font-weight: normal;
+}
+
+footer .quote-container .quote {
+    font-size: 1em;
+}
+
+footer .quote-container .author {
+    /*display: none;*/
+    font-size: 0.83em;
+}
+
+.time {
+    font-size: 8em;
+}
+
+.greeting {
+    font-size: 4em;
+}
