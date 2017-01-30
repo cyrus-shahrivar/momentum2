@@ -5,6 +5,7 @@ $(document).ready(function () {
     var eveningTime = moment('17:00', 'HH:mm');
     var nightTime = moment('22:00', 'HH:mm');
     var quotes = window.quotes;
+    var randomQuoteNumber = Math.floor(Math.random() * quotes.length);
 
     // clocktime and greeting
     function displayGreeting() {
@@ -32,8 +33,8 @@ $(document).ready(function () {
     setInterval(displayGreeting, 60000);
 
     // quote
-    $('.quote').append(quotes[1].quote);
-    $('.author').append('- ' + quotes[1].author);
+    $('.quote').append(quotes[randomQuoteNumber].quote);
+    $('.author').append('- ' + quotes[randomQuoteNumber].author);
 
     // try to animate quote author appearance
     // $('footer').on('mouseenter', function () {
