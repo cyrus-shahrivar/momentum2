@@ -5,7 +5,7 @@ window.quotes = [
     },
     {
         "author": "Craig Ferguson",
-        "quote": "Doctor Who is all about the triumph of intellect and romance over brute force and cynicism."
+        "quote": "It's all about the triumph of intellect and romance over brute force and cynicism."
     },
     {
         "author": "Unknown",
