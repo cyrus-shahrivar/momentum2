@@ -1,0 +1,35 @@
+{
+    "quotes": [{
+            "author": "Marcus Aurelius, Meditations",
+            "quote": "You have power over your mind—not outside events. Realize this, and you will find strength."
+        },
+        {
+            "author": "Craig Ferguson",
+            "quote": "It's all about the triumph of intellect and romance over brute force and cynicism."
+        },
+        {
+            "author": "Unknown",
+            "quote": "There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors."
+        },
+        {
+            "author": "Lao Tzu",
+            "quote": "Watch your thoughts; they become words. Watch your words; they become actions. Watch your actions; they become habit. Watch your habits; they become character. Watch your character; it becomes your destiny."
+        },
+        {
+            "author": "Bruce Lee",
+            "quote": "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."
+        },
+        {
+            "author": "The Doctor, Doctor Who",
+            "quote": "Love is not an emotion, Love is a promise."
+        },
+        {
+            "author": "Sun Tzu",
+            "quote": "If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle."
+        },
+        {
+            "author": "Ghandi",
+            "quote": "Be the change you wish to see in the world."
+        }
+    ]
+}
