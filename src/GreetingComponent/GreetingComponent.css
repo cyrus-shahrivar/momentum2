@@ -1,0 +1,9 @@
+.greet {
+    font-size: 4em;
+}
+
+@media (max-width: 500px) {
+    .greet {
+        font-size: 3em;
+    }
+}
